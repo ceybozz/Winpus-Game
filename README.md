@@ -55,4 +55,4 @@ P 3 3
 
 ## 📝 License
 
-MIT © Your Name
+MIT © Ceyhun Bozkurt
